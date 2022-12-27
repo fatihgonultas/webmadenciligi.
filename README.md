@@ -1,2 +1,2 @@
-# webmadenciligi
- webmadenciligitasarımarayüz
+# webproje
+ webtezproje
